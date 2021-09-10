@@ -14,7 +14,7 @@ namespace Github_Demo
 
             Console.WriteLine("Hello! What is your name?");
             name = Console.ReadLine();
-            Console.WriteLine("hello" + name);
+            Console.WriteLine("hello, " + name);
 
 
 
